@@ -13,17 +13,26 @@ Built With
 
 - HTML5 – Semantic structure and accessibility  
 - CSS3 – Styling and layout  
-- Tailwind CSS – Utility-first CSS framework for rapid design  
-- JavaScript – Interactive components and animations  
+- Tailwind CSS – Styling 
+- JavaScript – Custom animations, smooth scrolling, and theme switching
+- Font Awesome - Icons and UI elements
+- Formspree - Email contact form integration
+- Google Analytics - Site analytics and visitor tracking  
 
 Features
 
-- Fully responsive design for mobile, tablet, and desktop  
-- Interactive UI elements and smooth scroll animations  
-- Contact section with working email
-- Optimized for fast loading and SEO best practices  
-- Clean, modern design reflecting my personal brand (ISS CREATIONS)
+- Fully responsive design for mobile, tablet, and desktop
+- Dynamic “Neon Theme” mode using local storage
+- Scroll-triggered fade-in animations
+- Smooth scrolling navigation
+- Functional contact form with email submission via Formspree
+- Privacy Policy and Terms of Service pages
+- Optimized for fast loading and SEO best practices
+- Clean, modern “glassmorphism” design representing the ISS Creations brand  
 
+Future Improvements
+- Add additional live project showcases
+  
 Contact
 
 If you'd like to connect, collaborate, or have any questions:  
